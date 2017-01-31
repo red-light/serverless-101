@@ -25,3 +25,4 @@ GraphQL + Lambda. Example with ES6 compiled with babel: https://github.com/serve
 ## Resources
 
 * [AWS Lambda Day 2015: Building with the Serverless Framework with Austin Collins](https://www.youtube.com/watch?v=BKx9vxxuZXY) - Good introduction video. Talks about the code architecture and about serverless in general (it's old, using v0.5 of serverless, but most of it is still useful).
+* [Writing a cron job microservice with Serverless and AWS Lambda](https://blog.readme.io/writing-a-cron-job-microservice-with-serverless-and-aws-lambda/)
